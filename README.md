@@ -1,2 +1,8 @@
-# RearmostMage530
-The html is about computer and game
+#                                                                        欢迎访问Remost的网站!
+#                                                                   Welcome to Remost's website!
+<body background="background.jpg"
+style=" background-repeat:no-repeat ;
+background-size:100% 100%;
+background-attachment: fixed;"
+<title>CTAC</title>
+<Link Rel="SHORTCUT ICON" href="./ico.ico">
